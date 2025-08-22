@@ -46,4 +46,4 @@ It uses **ESP8266 (NodeMCU)** for data collection and uploads results to **Thing
 ## 🔧 Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/IoT-Patient-Monitoring-System.git
+   git clone https://github.com/hariish18/IoT-Patient-Monitoring-System.git
